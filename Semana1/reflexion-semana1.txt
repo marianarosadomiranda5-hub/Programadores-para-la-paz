@@ -1,0 +1,4 @@
+Reflexion: El uso responsable de la informacion en internet esta muy relacionada con la participacion, por que cuando una persona comparte contenido verificado, contrivuye a una sociedad mejor informada.
+Si difundimos informacion falsa, podemos afectar decisiones importantes de otras personas. Ademas, la organizacion del trabajo tecnico con herramientas como Git tambien tiene que ver con la responsabilidad, ya que permite ordenar, revisar y mejorar la informacion en equipo.
+Asi como en la ciudadania digital debemos ser cuidadosos con lo que publicamos, en Git debemos ser organizados y claros con los cambios que hacemos. Ambas cosas promueven el traabajo colaborativo, la transparencia y la confianza.
+En conclusion, ser responsable en internet y en herramientas tecnicas ayuda a construir entornos mas seguros y eficientes.
